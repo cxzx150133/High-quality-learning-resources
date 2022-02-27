@@ -6,15 +6,15 @@
 
 | 名称  | 语言 | 获取方式 | 类型 | 标签 |
 | --- | --- | --- | --- | --- |
-| Go 语言设计与实现 | 中文 | 作者提供，免费在线阅读(https://draveness.me/golang/) | 开源电子书 | 编译原理 |
-| Crafting Interpreters | English |作者提供，免费在线阅读(https://craftinginterpreters.com/) | 开源电子书 | 编译原理 |
-| Moonix | 中文 | 作者提供，免费在线阅读(https://cn-guoziyang.github.io/Moonix/) | 开源电子书 | 操作系统 |
-| The Book of Shaders | 中文、English 等多种语言 | 作者提供，免费在线阅读(https://thebookofshaders.com/) | 开源电子书 | 计算机图形学 |
-| 自己动手写编译器 | 中文 | 作者提供，免费在线阅读(https://pandolia.net/tinyc/) | 开源电子书 | 编译原理 |
-| You Don't Know JS | English 等多种语言 | 作者提供，免费在线阅读(https://github.com/getify/You-Dont-Know-JS) | 开源电子书 | Javascript |
-| JavaScript 二十年 | 中文 | 作者提供，免费在线阅读(https://cn.history.js.org/) | 开源电子书 | Javascript |
-| µGo语言实现 | 中文 | 作者提供，免费在线阅读(https://wa-lang.org/ugo-compiler-book/) | 开源电子书 | 编译原理 |
-| 深入理解Vue.js实战 | 中文 | 作者提供，免费在线阅读(https://godbasin.github.io/vue-ebook/) | 开源电子书 | Vue.js |
+| Go 语言设计与实现 | 中文 | 免费在线阅读(https://draveness.me/golang/) | 开源电子书 | 编译原理 |
+| Crafting Interpreters | English | 免费在线阅读(https://craftinginterpreters.com/) | 开源电子书 | 编译原理 |
+| Moonix | 中文 | 免费在线阅读(https://cn-guoziyang.github.io/Moonix/) | 开源电子书 | 操作系统 |
+| The Book of Shaders | 中文、English 等多种语言 | 免费在线阅读(https://thebookofshaders.com/) | 开源电子书 | 计算机图形学 |
+| 自己动手写编译器 | 中文 | 免费在线阅读(https://pandolia.net/tinyc/) | 开源电子书 | 编译原理 |
+| You Don't Know JS | English 等多种语言 | 免费在线阅读(https://github.com/getify/You-Dont-Know-JS) | 开源电子书 | Javascript |
+| JavaScript 二十年 | 中文 | 免费在线阅读(https://cn.history.js.org/) | 开源电子书 | Javascript |
+| µGo语言实现 | 中文 | 免费在线阅读(https://wa-lang.org/ugo-compiler-book/) | 开源电子书 | 编译原理 |
+| 深入理解Vue.js实战 | 中文 | 免费在线阅读(https://godbasin.github.io/vue-ebook/) | 开源电子书 | Vue.js |
 | 开源软件架构 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1143) | 开源电子书 | 软件架构 |
 | 计算机科学的基础 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1019) | 开源电子书 | 计算机科学 |
 
