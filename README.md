@@ -19,31 +19,38 @@
 | 开源软件架构 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1143) | 开源电子书 | 软件架构 |
 | 计算机科学的基础 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1019) | 开源电子书 | 计算机科学 |
 | 带你入门前端工程 | 中文 | 免费在线阅读(https://woai3c.gitee.io/introduction-to-front-end-engineering/) | 开源电子书 | 前端工程化 |
-| 南瓜书PumpkinBook | 中文 | 免费在线阅读(https://datawhalechina.github.io/pumpkin-book/ | 开源电子书 | 机器学习 |
-| 凤凰架构 | 中文 | 免费在线阅读(https://icyfenix.cn/ | 开源电子书 | 软件架构 |
+| 南瓜书PumpkinBook | 中文 | 免费在线阅读(https://datawhalechina.github.io/pumpkin-book/) | 开源电子书 | 机器学习 |
+| 凤凰架构 | 中文 | 免费在线阅读(https://icyfenix.cn/) | 开源电子书 | 软件架构 |
 
-## 怎么定义高质量
+## 一些说明
+
+### 怎么定义高质量
 
 1. 对知识进行系统性的描述，而非泛泛而谈。没人愿意看了半天感到学到很多却又好像什么也没学到。
 2. 具有一定的深度，能让人有所收获。没人愿意浪费时间一无所获。
 3. 易于理解。没人愿意去浪费时间读一本看不懂的书。
 4. 具有时效性，即具有现实意义。没人会在 2022 年再去翻阅诸如《iOS6 从入门到精通》这样的书籍，这也就是为什么不收集 xx 教程的一个很重要的原因，技术会与时俱进，试图全收集只是徒劳。
 
-## 为什么不包括付费资源
+### 为什么不包括付费资源
 
 1. 能让人付费说明你认为它对你有价值
 2. 容易引起纠纷
 3. 相对不易获得
 
-## 为什么不包括盗版资源
+### 为什么不包括盗版资源
 
 1. 能被盗版说明本身是付费资源，和不包括付费的理由存在重合不再赘述。
 
-## 为什么不包括视频类的资源
+### 为什么不包括视频类的资源
 
 1. 个人认为视频、图片是文字的补充，文字信息量更高，且易于传播和储存。
 2. 除了个别作者用爱发电外，视频类资源大多都是盗版资源或免费观看受限。
 
-## 为什么在已经存在了类似 free-programming-books 这样的仓库的情况下还要再造轮子
+### 为什么在已经存在了类似 [free-programming-books](https://github.com/EbookFoundation/free-programming-books/) 这样的仓库的情况下还要再造轮子
 
 1. 它太杂了，就像不会再去翻收藏夹里的内容一样，我没兴趣也没时间去大海捞金。
+
+## 参考
+
++ https://www.zhihu.com/question/38836382
++ https://github.com/EbookFoundation/free-programming-books/
