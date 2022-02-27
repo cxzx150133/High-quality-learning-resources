@@ -22,6 +22,7 @@
 | 开源软件架构 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1143) | 开源电子书 | 软件架构 |
 | 凤凰架构 | 中文 | 免费在线阅读(https://icyfenix.cn/) | 开源电子书 | 软件架构 |
 | 一步步搭建物联网系统 | 中文 | 免费在线阅读(http://phodal.github.io/designiot/) | 开源电子书 | 物联网 |
+| 深入浅出现代Web编程 | 中文 | 免费在线阅读(https://fullstackopen.com/zh/ | 开源电子书 | 全栈开发 |
 
 ## 一些说明
 
