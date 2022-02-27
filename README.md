@@ -11,7 +11,7 @@
 | Crafting Interpreters | English | 免费在线阅读(https://craftinginterpreters.com/) | 开源电子书 | 编译原理 |
 | 自己动手写编译器 | 中文 | 免费在线阅读(https://pandolia.net/tinyc/) | 开源电子书 | 编译原理 |
 | Moonix | 中文 | 免费在线阅读(https://cn-guoziyang.github.io/Moonix/) | 开源电子书 | 操作系统 |
-| Writing an OS in Rust | 中文、English 等多种语言 | 免费在线阅读(https://os.phil-opp.com/zh-CN/) | 开源电子书 | 操作系统 |
+| Writing an OS in Rust | English 等多种语言 | 免费在线阅读(https://os.phil-opp.com/) | 开源电子书 | 操作系统 |
 | The Book of Shaders | 中文、English 等多种语言 | 免费在线阅读(https://thebookofshaders.com/) | 开源电子书 | 计算机图形学 |
 | Learn OpenGL | 中文、English | 免费在线阅读(https://learnopengl-cn.github.io/ | 开源电子书 | 计算机图形学、OpenGL |
 | 南瓜书PumpkinBook | 中文 | 免费在线阅读(https://datawhalechina.github.io/pumpkin-book/) | 开源电子书 | 机器学习 |
