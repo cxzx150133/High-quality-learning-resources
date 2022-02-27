@@ -57,3 +57,12 @@
 + https://www.zhihu.com/question/38836382
 + https://github.com/EbookFoundation/free-programming-books/
 + https://www.phodal.com/literature/
+
+## 广告
+
+> 推荐基于以下框架构建现代前端项目
+
++ https://cn.vuejs.org/
++ https://zh-hans.reactjs.org/
++ https://angular.cn/
++ https://www.sveltejs.cn/
