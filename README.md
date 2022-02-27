@@ -14,6 +14,7 @@
 | You Don't Know JS | English 等多种语言 | 作者提供，免费在线阅读(https://github.com/getify/You-Dont-Know-JS) | 开源电子书 | Javascript |
 | JavaScript 二十年 | 中文 | 作者提供，免费在线阅读(https://cn.history.js.org/) | 开源电子书 | Javascript |
 | µGo语言实现 | 中文 | 作者提供，免费在线阅读(https://wa-lang.org/ugo-compiler-book/) | 开源电子书 | 编译原理 |
+| 深入理解Vue.js实战 | 中文 | 作者提供，免费在线阅读(https://godbasin.github.io/vue-ebook/) | 开源电子书 | Vue.js |
 
 ## 怎么定义高质量
 
