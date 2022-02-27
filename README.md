@@ -10,6 +10,7 @@
 | Crafting Interpreters | English |作者提供，免费在线阅读(https://craftinginterpreters.com/) | 开源电子书 | 编译原理 |
 | Moonix | 中文 | 作者提供，免费在线阅读(https://cn-guoziyang.github.io/Moonix/) | 开源电子书 | 操作系统 |
 | The Book of Shaders | 中文、English 等多种语言 | 作者提供，免费在线阅读(https://thebookofshaders.com/) | 开源电子书 | 计算机图形学 |
+| 自己动手写编译器 | 中文 | 作者提供，免费在线阅读(https://pandolia.net/tinyc/) | 开源电子书 | 编译原理 |
 
 ## 怎么定义高质量
 
