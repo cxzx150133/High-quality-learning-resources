@@ -14,11 +14,11 @@
 | The Book of Shaders | 中文、English 等多种语言 | 免费在线阅读(https://thebookofshaders.com/) | 开源电子书 | 计算机图形学 |
 | Learn OpenGL | 中文、English | 免费在线阅读(https://learnopengl-cn.github.io/ | 开源电子书 | 计算机图形学、OpenGL |
 | 南瓜书PumpkinBook | 中文 | 免费在线阅读(https://datawhalechina.github.io/pumpkin-book/) | 开源电子书 | 机器学习 |
-| 计算机科学的基础 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1019) | 开源电子书 | 计算机科学 |
 | You Don't Know JS | English 等多种语言 | 免费在线阅读(https://github.com/getify/You-Dont-Know-JS) | 开源电子书 | Javascript |
 | JavaScript 二十年 | 中文 | 免费在线阅读(https://cn.history.js.org/) | 开源电子书 | Javascript |
 | 深入理解Vue.js实战 | 中文 | 免费在线阅读(https://godbasin.github.io/vue-ebook/) | 开源电子书 | Vue.js |
 | 带你入门前端工程 | 中文 | 免费在线阅读(https://woai3c.gitee.io/introduction-to-front-end-engineering/) | 开源电子书 | 前端工程化 |
+| 计算机科学的基础 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1019) | 开源电子书 | 计算机科学 |
 | 开源软件架构 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1143) | 开源电子书 | 软件架构 |
 | 凤凰架构 | 中文 | 免费在线阅读(https://icyfenix.cn/) | 开源电子书 | 软件架构 |
 
@@ -30,6 +30,7 @@
 2. 具有一定的深度，能让人有所收获。没人愿意浪费时间一无所获。
 3. 易于理解。没人愿意去浪费时间读一本看不懂的书。
 4. 具有时效性，即具有现实意义。没人会在 2022 年再去翻阅诸如《iOS6 从入门到精通》这样的书籍，这也就是为什么不收集 xx 教程的一个很重要的原因，技术会与时俱进，试图全收集只是徒劳。
+5. 最好能支持在线阅读。没人愿意花时间下载下来的资源结果全是广告、水印、残缺或是加过密。
 
 ### 为什么不包括付费资源
 
