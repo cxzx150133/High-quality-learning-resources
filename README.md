@@ -25,6 +25,7 @@
 | 一步步搭建物联网系统 | 中文 | 免费在线阅读(http://phodal.github.io/designiot/) | 开源电子书 | 物联网 |
 | 深入浅出现代Web编程 | 中文 | 免费在线阅读(https://fullstackopen.com/zh/) | 开源电子书 | 全栈开发 |
 | hacker-laws-zh | 中文 | 免费在线阅读(https://github.com/nusr/hacker-laws-zh) | 开源文章 | 编程哲学 |
+| React技术揭秘 | 中文 | 免费在线阅读(https://react.iamkasong.com/) | 开源电子书 | react.js |
 
 ## 一些说明
 
