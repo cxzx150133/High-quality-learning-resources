@@ -19,6 +19,7 @@
 | JavaScript 二十年 | 中文 | 免费在线阅读(https://cn.history.js.org/) | 开源电子书 | Javascript |
 | 深入理解Vue.js实战 | 中文 | 免费在线阅读(https://godbasin.github.io/vue-ebook/) | 开源电子书 | Vue.js |
 | 带你入门前端工程 | 中文 | 免费在线阅读(https://woai3c.gitee.io/introduction-to-front-end-engineering/) | 开源电子书 | 前端工程化 |
+| 前端工程化三十八讲 | 中文 | 免费在线阅读(https://q.shanyue.tech/engineering/) | 开源电子书 | 前端工程化 |
 | 计算机科学的基础 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1019) | 开源电子书 | 计算机科学 |
 | 开源软件架构 | 中文 | 免费在线阅读(https://www.ituring.com.cn/book/1143) | 开源电子书 | 软件架构 |
 | 凤凰架构 | 中文 | 免费在线阅读(https://icyfenix.cn/) | 开源电子书 | 软件架构 |
