@@ -28,7 +28,8 @@
 | hacker-laws-zh | 中文 | 免费在线阅读(https://github.com/nusr/hacker-laws-zh) | 开源文章 | 编程哲学 |
 | React技术揭秘 | 中文 | 免费在线阅读(https://react.iamkasong.com/) | 开源电子书 | react.js |
 | web 全栈体系 | 中文 | 免费在线阅读(https://hejialianghe.github.io/guide/) | 开源电子书 | 全栈开发 |
-| FreeBSD 从入门到跑路 | 中文 | 免费在线阅读(https://book.freebsdcn.org/ | 开源电子书 | UNIX |
+| FreeBSD 从入门到跑路 | 中文 | 免费在线阅读(https://book.freebsdcn.org/) | 开源电子书 | UNIX |
+| Java工程师成神之路 | 中文 | 免费在线阅读(https://hollischuang.github.io/toBeTopJavaer/) | 开源电子书 | Java |
 
 ## 一些说明
 
