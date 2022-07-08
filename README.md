@@ -30,6 +30,7 @@
 | web 全栈体系 | 中文 | 免费在线阅读(https://hejialianghe.github.io/guide/) | 开源电子书 | 全栈开发 |
 | FreeBSD 从入门到跑路 | 中文 | 免费在线阅读(https://book.freebsdcn.org/) | 开源电子书 | UNIX |
 | Java工程师成神之路 | 中文 | 免费在线阅读(https://hollischuang.github.io/toBeTopJavaer/) | 开源电子书 | Java |
+| Webpack 知识图谱 | 中文 | 免费在线阅读(https://tsejx.github.io/webpack-guidebook/) | 开源电子书 | Webpack |
 
 ## 一些说明
 
