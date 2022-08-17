@@ -31,6 +31,7 @@
 | FreeBSD 从入门到跑路 | 中文 | 免费在线阅读(https://book.freebsdcn.org/) | 开源电子书 | UNIX |
 | Java工程师成神之路 | 中文 | 免费在线阅读(https://hollischuang.github.io/toBeTopJavaer/) | 开源电子书 | Java |
 | Webpack 知识图谱 | 中文 | 免费在线阅读(https://tsejx.github.io/webpack-guidebook/) | 开源电子书 | Webpack |
+| Vue2 剥丝抽茧 | 中文 | 免费在线阅读(https://vue.windliang.wang/) | 开源电子书 | Vue2 |
 
 ## 一些说明
 
